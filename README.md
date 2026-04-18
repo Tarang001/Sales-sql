@@ -80,7 +80,7 @@ Feel free to fork this repository and enhance the tool with new features or impr
 **Tarang**
 
 * GitHub: https://github.com/Tarang001
-* LinkedIn: https://linkedin.com/in/tarang
+* LinkedIn: https://linkedin.com/in/tarang001
 
 ---
 
